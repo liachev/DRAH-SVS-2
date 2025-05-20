@@ -19,7 +19,7 @@ export default function Header() {
             <div className="flex-shrink-0 flex items-center">
               <Link href="/">
                 <Image
-                  src="/images/logo.png"
+                   src="/images/drah-logo.jpg"
                   alt="DRAH Logo"
                   width={120}
                   height={40}
