@@ -5,7 +5,6 @@
   "installCommand": "npm install",
   "framework": "nextjs",
   "images": {
-    "domains": [],
-    "unoptimized": true
+    "domains": []
   }
 }
